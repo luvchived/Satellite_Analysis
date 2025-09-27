@@ -7,14 +7,8 @@ AOS: 위성이 지평선 위로 처음 떠오르기 시작하는 시각
 LOS: 위성이 지평선 아래로 사라지는 시각
 Max Elevation: 위성의 고도가 가장 높은 시점
 ​
-​
-         |               ●  ← Max Elevation
-         |             ／   ＼
-Elevation|            ／      ＼
-(degree) |           ／         ＼
-         |      AOS●              ●LOS
-         |_______________________________
-                              Time →
+​<img width="242" height="144" alt="스크린샷 2025-09-27 오후 12 39 14" src="https://github.com/user-attachments/assets/e4169b65-b509-4c8b-bf15-d126ff241275" />
+
 
 
 -Python implementation of the SGP4 algorithm for satellite orbit propagation
