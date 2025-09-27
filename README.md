@@ -18,7 +18,6 @@ Max Elevation: 위성의 고도가 가장 높은 시점
   ->SGP, ***SGP4***, SDP4, SGP8, SDP8
 ​  :인공위성 등의 궤도 위치 및 속도를 ECI 기준으로 계산하는 알고리즘
 
-
 - Need
   1. TLE(Two-Line Element set)
     Get TLE data: https://celestrak.org/NORAD/elements/gp.php?GROUP=active&FORMAT=tle
